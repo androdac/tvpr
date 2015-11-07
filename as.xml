@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+    <channel>
+        
+        <name>Movies</name>
+        <thumbnail>http://s12.postimage.org/r9el6owhp/movies.png</thumbnail>
+        <items>
+ 
+         <item>
+	        <title>Acasa</title> 
+            <link>sop://broker.sopcast.com:3912/149256</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/acasa_tv.png</thumbnail> 
+	    </item>
+        
+            <item>
+	        <title>CINEMAX 2 HD</title>
+	        <link>rtmp://s6.webport.tv/live/ playpath=z010401.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cinemax2_ce.jpg</thumbnail>
+	    </item>
+
+            <item>
+	        <title>Sky Cinema1 HD</title>
+	        <link>rtmp://s6.webport.tv/live/ playpath=z050207.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema_plus1_hd.jpg</thumbnail>
+	    </item>
+	    
+	    <item>
+	        <title>Sky Movies Modern Greats HD</title>
+	        <link>rtmp://s7.webport.tv/live playpath=z050228.stream pageUrl=http://www.tvsector.com live=1 swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_modern_greats_hd.jpg</thumbnail>
+	    </item> 
+           
+	    <item>
+		<title>Sky Movies Drama & Romance HD</title>
+		<link>rtmp://s7.webport.tv/live playpath=z050229.stream pageUrl=http://www.tvsector.com live=1 swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
+		<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_drama_romance_hd.jpg</thumbnail>
+	    </item>
+	   
+	    <item>
+	        <title>Sky Movies SciFi & Horror HD</title>
+	        <link>rtmp://s7.webport.tv/live playpath=z050230.stream pageUrl=http://www.tvsector.com live=1 swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_scifi_horror_hd.jpg</thumbnail>
+	    </item>
+	    
+	    <item>
+	        <title>Sky Movies Comedy HD</title>
+	        <link>rtmp://s7.webport.tv/live playpath=z050231.stream pageUrl=http://www.tvsector.com live=1 swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_comedy_hd.jpg</thumbnail>
+	    </item>
+	    
+	    <item>
+	        <title>Cinema Hits HD</title>
+	        <link>rtmp://s99.webport.tv/live playpath=z050211.stream  pageUrl=http://www.tvsector.com live=1  swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
+	        <thumbnail>http://s7.postimage.org/r3jtgv25n/Sky_Cinema_Hits.png</thumbnail>
+	    </item>
+	    
+            <item>
+	        <title>Cinema MAX HD</title>
+	        <link>rtmp://s99.webport.tv/live playpath=z050206.stream  pageUrl=http://www.tvsector.com live=1  swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
+	        <thumbnail>http://s7.postimage.org/ddpa82f1n/Sky_Cinema_Max.png</thumbnail>
+	    </item>
+	    
+	    <item>
+	        <title>MGM HD</title>
+	        <link>rtmp://s6.webport.tv/live/ playpath=z020401.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mgm_hd_uk.jpg</thumbnail>
+	    </item>
+	   
+	
+	</items>    
+    
+    </channel>
+    
+    
+    
+    
+    <channel>
+        
+        <name>Entertainment</name>
+        <thumbnail>http://s18.postimage.org/4p0av1149/entertainment.png</thumbnail>
+	
+	<items>
+
+	     <item>
+	        <title>HBO HD</title>
+	        <link>rtmp://s6.webport.tv/live/ playpath=z010402.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_hd.jpg</thumbnail>
+	    </item>
+  
+	    <item>
+	        <title>HBO2 HD</title>
+	        <link>rtmp://s6.webport.tv/live/ playpath=z010701.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo2_hd.jpg</thumbnail>
+	    </item>
+
+           
+
+	    <item>
+	        <title>Fox HD</title>
+	        <link>rtmp://s7.webport.tv/live playpath=z050224.stream pageUrl=http://www.tvsector.com live=1 swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_hd.jpg</thumbnail>
+	    </item>
+	    
+	     <item>
+	        <title>Comedy Central HD</title>
+	        <link>rtmp://s6.webport.tv/live/ playpath=z020503.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/Comedy_Central_HD/</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/comedy_central.jpg</thumbnail>
+	    </item>
+	    
+	     <item>
+	        <title>CANAL HOLLYWOOD</title>
+	        <link>rtmp://94.102.56.186/histream playpath=televisahollywood swfUrl=http://www.histream.tv/player.swf live=1 pageUrl=http://www.histream.tv/embedTele.php?file=televisasporttv3&width=650&height=500</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal_hollywood.jpg</thumbnail>
+	    </item>
+	    
+	    <item>
+		<title>Starz</title>
+		<link>rtmp://38.96.175.173:1935/live/ playpath=20012@hyqw swfUrl=http://www.tvopencast.com/tvopencast.com.swf pageUrl=http://tvopencast.com/video.php?n=20012@hyqw</link>
+		<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/starz.jpg</thumbnail>
+	    </item>
+	    
+	    <item>
+                <title>Comedy Net</title>
+                <thumbnail>http://lazrojas.com/comedynetLogo.jpg</thumbnail>
+                <link>rtmp://live127.origin.la3.filmon.com:1935/live/_definst_/ playpath=497.high.stream live=true/Comedy Net</link>
+            </item>
+
+            <item>
+                <title>The Country Network</title>
+                <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png</thumbnail>
+                <link>rtmp://82.166.201.223/live?_fcs_vhost=cp76676.live.edgefcs.net/5uMjNmMjqqV2tI5_ZzsUtHcPRTSQiUli_640_480_600@54976 playpath=5uMjNmMjqqV2tI5_ZzsUtHcPRTSQiUli_640_480_600@54976 swfurl=http://player.ooyala.com/static/cacheable/4da23032782e072c77aa3f26ab6dbbbb/player_v2.swf live=1 pageurl=http://tcncountry.com/The Country Network</link>
+            </item>
+            
+            <item>
+                <title>Food Network</title>
+                <thumbnail>http://www.lyngsat-logo.com/hires/ff/food_network_us.png</thumbnail>
+                <link>rtmp://176.31.231.57/edge/7pb51t4nqxrmubw playpath=7pb51t4nqxrmubw swfurl=http://static.ilive.to/jwplayer/player.swf pageurl=http://www.ilive.to/Food</link>
+            </item>
+            
+            <item>
+                <title>FOX Life</title>
+                <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_life_pt.png</thumbnail>
+                <link>rtmp://94.102.56.186/histream/ playpath=televisafoxlife swfurl=http://www.histream.tv/player.swf live=true pageurl=http://www.histream.tv/Fox Life</link>
+            </item>
+            
+             <item>
+                <title>Fox</title>
+                <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox.png</thumbnail>
+                <link>mms://195.90.118.93/verytangytvsitcom_1/Fox</link>
+            </item>
+               
+    </channel>
+    
+    <channel>
+        
+        <name>Documentaries</name>
+        <thumbnail>http://s7.postimage.org/64pcnkh3f/docs.png</thumbnail>
+        <items>
+
+         <item>
+	        <title>Nat Geo Wild HD</title>
+	        <link>rtmp://s99.webport.tv/live/ playpath=z050204.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf" pageUrl="http://www.tvsector.com/national-geographic-nat-geo-hd/" timeout=60</link>
+	        <thumbnail>http://www.muycomputer.com/wp-content/uploads/2011/09/nat_geo_wild_de_hd1.jpg</thumbnail>
+
+	    <item>
+		<title>National Geographic HD</title>
+		<link>rtmp://tv.tvsector.com/live playpath=z050203.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+		<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us_hd.jpg</thumbnail>
+	    </item>
+
+            <item>
+	        <title>Nat Geo HD</title>
+	        <link>rtmp://s6.webport.tv/live/ playpath=z050225.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us_hd.jpg</thumbnail>
+	    </item>
+
+            <item>
+	        <title>Animal Planet HD</title>
+	        <link>rtmp://s7.webport.tv/live/z050001.stream playpath=z050001.stream swfUrl=http://tvsector.com/mediaplayer/player.swf live=1 pageUrl=http://tvsector.com/</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us_hd.jpg</thumbnail>
+	    </item>
+
+	    <item>
+	        <title>History HD</title>
+	        <link>rtmp://s99.webport.tv/live/ playpath=z050003.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/History-hd/</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/history_hd.jpg</thumbnail>
+	    </item>
+
+        <item>
+            <title>Discovery Channel HD</title>
+            <link>http://bitgravity.live.cdn.bitgravity.com/bitgravity/live/mobileDemo_hi</link>
+            <thumbnail>http://images.wikia.com/logopedia/images/2/28/Discovery_HD_old.png</thumbnail>
+        </item>
+        
+        <item>
+	        <title>FOX Crime HD</title>
+	        <link>rtmp://s6.webport.tv/live/ playpath=z050209.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_crime_asia_hd.jpg</thumbnail>
+	    </item>
+           
+            <item>
+	        <title>BIO HD</title>
+	        <link>rtmp://s7.webport.tv/live/z020204.stream playpath=z020204.stream swfUrl=http://tvsector.com/mediaplayer/player.swf live=1 pageUrl=http://tvsector.com/</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/biography.jpg</thumbnail>
+	    </item>
+	    
+	    <item>
+	        <title>Channel One HD</title>
+	        <link>rtmp://s99.webport.tv/live/ playpath=z040002.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf" pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/perviy_1_kanal.jpg</thumbnail>
+	    </item>
+	    
+            <item>
+                <title>National Geographic HD</title>
+                <link>rtmp://s7.webport.tv:1935/live/ playpath=z050203.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/ timeout=60</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_emea.jpg</thumbnail>
+            </item>
+            
+            <item>
+				<title>Velocity HD</title>
+				<link>rtmp://fms3.tikilive.com:1935/view/25503_122/stream25503 live=true timeout=60</link>
+			<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/velocity.jpg</thumbnail>
+			</item> 
+            
+  </channel>
+    
+  <channel>
+        
+        <name>News</name>
+        <thumbnail>http://s13.postimage.org/nolk6incn/news.png</thumbnail>
+        <items>
+        
+         <item>
+	        <title>Sky News HD</title>
+	        <link>rtmp://s7.webport.tv/live playpath=z050227.stream pageUrl=http://www.tvsector.com live=1 swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_news_hd.jpg</thumbnail>
+	    </item>
+	    
+	     <item>
+            <title>BBC World News</title>
+            <link>rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true timeout=60</link>
+            <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlj.png</thumbnail>
+        </item>
+
+        <item>
+            <title>Bloomberg</title>
+            <link>rtmpt://cp87869.live.edgefcs.net:1935/live/ playpath=us_300@21006 pageURL=http://www.bloomberg.com/tv/ app=live swfUrl=http://cdn.gotraffic.net/v/20110210_153738//flash/BloombergMediaPlayer.swf swfVfy=true live=true</link>	
+            <thumbnail>http://www.articleslounge.com/wp-content/uploads/2010/10/BLOOMBERG-tv-LOGO.jpg</thumbnail>
+            <genre>News</genre>
+            <info>Bloomberg is the leader in global business and financial information. We give influential decision makers the data, analytics, news and insight to give them a critical edge.</info>
+        </item>
+        
+        <item>
+            <title>Euro-News</title>
+            <link>rtmp://media2.lsops.net/live/ playpath=euronews_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/1-euronews-english" swfVfy=true live=true</link>
+            <thumbnail>http://advanced-television.com/wp-content/uploads/2010/10/Euronews-Logo.jpg</thumbnail>
+            <genre>News</genre>
+        </item>
+
+		
+		
+ </channel>
+ 
+ 
+ <channel>
+        
+        <name>Sport</name>
+        <thumbnail>http://s13.postimage.org/vrjqhu7xz/sport.png</thumbnail>
+        <items>
+        
+         <item>
+		<title>Eurosport HD</title>
+		<link>rtmp://s6.webport.tv/live/ playpath=z010601.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+		<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport_hd.jpg</thumbnail>
+	    </item>
+
+	    <item>
+		<title>Eurosport HD 1080p</title>
+		<link>http://tinyurl.com/85sd2z2</link>
+		<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport_hd.jpg</thumbnail>
+	    </item>  
+ 
+    	    <item>
+		<title>Eurosport 2 HD</title>
+		<link>rtmp://s6.webport.tv/live/ playpath=z010301.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+	    	<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport2_hd.jpg</thumbnail>
+	    </item>
+
+            <item>
+	        <title>Sky Sports HD1</title>
+	        <link>rtmp://s6.webport.tv/live/ playpath=z050226.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports1.jpg</thumbnail>
+	    </item>
+
+            <item>
+	        <title>ESPN HD America</title>
+	        <link>rtmp://s7.webport.tv/live/ playpath=z050201.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/espn-hd/</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_lam_hd.jpg</thumbnail>
+	    </item>
+	    
+	     <item>
+	        <title>RED BULL SPORT</title>
+	        <link>rtmp://cp93704.live.edgefcs.net/live/ playpath=redbull1@21839 swfUrl=http://www.chanfeed.com/streams/mediaplayer.swf live=1 pageUrl=http://chanfeed.com/red-bull-sport</link>
+	        <thumbnail>http://img507.imageshack.us/img507/4618/00450httpihaymarketneta.jpg</thumbnail>
+	    </item>
+	    
+	     <item>
+	        <title>EUROSPORT HD</title>
+	        <link>rtmp://s6.webport.tv/live/ playpath=z010601.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport_hd.jpg</thumbnail>
+	    </item>
+	    
+	    <item>
+	        <title>Sport 1 HD</title>
+                <link>rtmp://s99.webport.tv/live/ playpath=z030103.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf" pageUrl="http://www.tvsector.com/national-geographic-nat-geo-hd/" timeout=60</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport1_de_hd.jpg</thumbnail>
+            </item>           
+          
+	    
+ </channel>
+ 
+ <channel>
+        
+        <name>Kids</name>
+        <thumbnail>http://s17.postimage.org/k3g1cfn4v/kids.png</thumbnail>
+        <items>
+        
+         <item>
+	        <title>DisneyXD HD</title>
+	        <link>rtmp://s6.webport.tv/live/ playpath=z020101.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/disney_xd_hd.jpg</thumbnail>
+	    </item>
+		
+	    
+ </channel>
+ 
+  <channel>
+        
+        <name>Music</name>
+        <thumbnail>http://s16.postimage.org/xbxsoce6t/Music.png</thumbnail>
+	
+	<items>
+
+	    <item>
+	        <title>Deluxemusic TV</title>
+	        <link>rtmp://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850 swfVfy=http://static.staging.deluxemusic.tv.dl1.ipercast.net/theme/deluxemusic.tv/flash/player.swf live=1</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/deluxe_music.jpg</thumbnail>
+	    </item>
+           
+	    <item>
+	        <title>Radio Montecarlo TV</title>
+	        <link>rtmp://fms.105.net:1935/live/rmc1 swfVfy=http://video.radiomontecarlo.net/com/universalmind/swf/videoPlayer.swf live=1</link>
+	        <thumbnail>http://www.crozcast.com/images/logos/aa7ca.jpg</thumbnail>
+	    </item>
+	    
+	    <item>
+	        <title>Italy TV</title>
+	        <link>rtmp://fms.105.net:1935/live/italytv1 swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf?xmlPath=/com/universalmind/tv/italytv/videoXML.xml&advXML=/com/universalmind/adsWizzConfig/47.xml live=1</link>
+	        <thumbnail>http://www.crozcast.com/images/logos/1ea6d.jpg</thumbnail>
+	    </item>
+
+	    <item>
+	        <title>Legend</title>
+	        <link>rtmp://fms.105.net:1935/live/legend1 swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf?xmlPath=/com/universalmind/tv/legend/videoXML.xml&advXML=/com/universalmind/adsWizzConfig/44.xml live=1</link>
+	        <thumbnail>http://www.crozcast.com/images/logos/legend.jpg</thumbnail>
+	    </item>
+           
+	    <item>
+	        <title>Radio 105 TV</title>
+	        <link>rtmp://fms.105.net:1935/live/105Test1 swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf?xmlPath=/com/universalmind/tv/105/videoXML.xml&advXML=/com/universalmind/adsWizzConfig/5.xml live=1</link>
+	        <thumbnail>http://www.crozcast.com/images/logos/908de.jpg</thumbnail>
+	    </item>
+	    
+	    <item>
+	        <title>TOP 40</title>
+	        <link>rtmp://fms.105.net:1935/live/charts1 swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf?xmlPath=/com/universalmind/tv/charts/videoXML.xml&advXML=/com/universalmind/adsWizzConfig/41.xml live=1</link>
+	        <thumbnail>http://www.crozcast.com/images/logos/3d19a.jpg</thumbnail>
+	    </item>
+	
+	    <item>
+	        <title>Virgin Radio TV</title>
+	        <link>rtmp://fms.105.net:1935/live/virgin1 swfVfy=http://video.virginradioitaly.it/com/universalmind/swf/videoPlayerTV.swf?xmlPath=http://video.virginradioitaly.it/com/universalmind/tv/virgin/videoXML.xml live=1</link>
+	        <thumbnail>http://video.virginradioitaly.it/images/virgin/VirginRadioVideo.png</thumbnail>
+	    </item>
+           
+	    <item>
+	        <title>Kiss TV</title>
+	        <link>rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-live/live swfVfy=http://kisstelevision.en-directo.com/kisstelevision_avw.swf live=1</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kiss_tv_ro.jpg</thumbnail>
+	    </item>
+	    
+	    <item>
+	        <title>Dance TV HU</title>
+	        <link>mmsh://dancetv.dyndns.org/dancetv</link>
+	        <thumbnail></thumbnail>
+	    </item>
+	    
+	    <item>
+	        <title>MTV Live HD</title>
+	        <link>rtmp://s6.webport.tv/live/ playpath=z010001.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mtv_live_hd_us.jpg</thumbnail>
+	    </item>
+
+            <item>
+                <title>MTV a</title>
+                <thumbnail>http://www.lyngsat-logo.com/hires/mm/mtv_fr.png</thumbnail>
+                <link>rtmp://94.102.56.186/histream/televisamtv playpath=televisamtv swfurl=http://www.histream.tv/player.swf live=1 pageurl=http://www.histream.tv/MTV</link>
+            </item>
+
+            <item>
+                <title>MTV b</title>
+                <thumbnail>http://www.lyngsat-logo.com/hires/mm/mtv_fr.png</thumbnail>
+                <link>rtmp://46.105.109.122/edge/ playpath=7gd0klihpn1y2nr swfurl=http://static.ilive.to/jwplayer/player.swf pageurl=http://www.ilive.to/MTV</link>
+            </item>	
+
+            <item>
+                <title>VH1</title>
+                <thumbnail>http://www.lyngsat-logo.com/hires/vv/vh1.png</thumbnail>
+                <link>rtmp://94.102.56.186/histream/televisavh1 playpath=televisavh1 swfurl=http://www.histream.tv/player.swf  live=1 pageurl=http://www.histream.tv/VH1</link>
+            </item>
+
+            <item>
+                <title>Virgin 1</title>
+                <thumbnail>http://www.lyngsat-logo.com/hires/vv/virgin_1_plus1.png</thumbnail>
+                <link>rtmp://fms.105.net:1935/live/virgin1 playpath=virgin1 swfurl=http://www.highermedia.com/assets/flash/jw_player.swf live=1 pageurl=http://www.google.com/Virgin 1</link>
+            </item>
+
+            <item>
+                <title>RMC LEGEND</title>
+                <thumbnail>http://www.crozcast.com/images/logos/legend.jpg</thumbnail>
+                <link>rtmp://fms.105.net:1935/live/legend1 playpath=legend1 swfurl=http://www.highermedia.com/assets/flash/jw_player.swf live=1 pageurl=http://www.highermedia.com/RMC Legend</link>
+            </item>
+
+            <item>
+                <title>RMC Top 40</title>
+                <thumbnail>http://www.cuntscorner.com/upload/1309811080.png</thumbnail>
+                <link>rtmp://fms.105.net:1935/live/charts1 playpath=charts1 swfurl=http://www.highermedia.com/assets/flash/jw_player.swf live=1 pageurl=http://www.highermedia.com/RMC Top 40</link>
+            </item>
+
+	  	
+	</items>    
+    
+    </channel>
+	    
+	    
+
+</channels>
