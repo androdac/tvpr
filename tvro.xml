@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+    <channel>
+        
+        <name>Movies</name>
+        <thumbnail>http://s12.postimage.org/r9el6owhp/movies.png</thumbnail>
+        <items>
+ 
+         <item>
+	        <title>Acasa</title> 
+            <link>sop://broker.sopcast.com:3912/149256</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/acasa_tv.png</thumbnail> 
+	    </item>
+        
+           <item>
+	        <title>Acasa Gold</title> 
+            <link>sop://broker.sopcast.com:3912/253471</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/acasa_tv_gold.png</thumbnail> 
+	    </item>
+		
+           <item>
+	        <title>Axn</title> 
+            <link>sop://broker.sopcast.com:3912/253035</link> 
+            <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_global.png</thumbnail>
+	    </item>
+	    
+	    <item>
+	        <title>Axn Black</title> 
+            <link>sop://broker.sopcast.com:3912/149261</link> 
+            <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_white_us.png</thumbnail> 
+	    </item>
+           
+	   
+		
+		<item>
+		    <title>Axn Spin</title> 
+            <link>sop://broker.sopcast.com:3912/149263</link> 
+            <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_spin_ro.png</thumbnail>
+	    </item>
+		
+		<item>
+	        <title>Axn White</title> 
+            <link>sop://broker.sopcast.com:3912/256240</link> 
+            <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_white_us.png</thumbnail> 
+	    </item>
+		
+		<item>
+	        <title>cinemax</title> 
+			<link>sop://broker.sopcast.com:3912/148882</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cinemax_ce.png</thumbnail> 
+	    </item>
+	    
+	    <item>
+	        <title>Digi Film</title> 
+            <link>sop://broker.sopcast.com:3912/149253</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_film_ro.png</thumbnail> 
+	    </item>
+	    
+	    <item>
+	        <title>Diva Universal</title> 
+            <link>sop://broker.sopcast.com:3912/253034</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/diva_global.png</thumbnail> 
+	    </item>
+	    
+        <item>
+	        <title>Filmcafe</title> 
+            <link>sop://broker.sopcast.com:3912/256238</link> 
+            <thumbnail>http://www.lyngsat-logo.com/hires/ff/filmbox_extra.png</thumbnail> 
+	    </item>
+	    
+	    <item>
+	        <title>Hbo</title> 
+            <link>sop://broker.sopcast.com:3912/148985</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_ro.png</thumbnail> 
+	    </item>
+		
+		<item>
+	        <title>Hbo Comedy</title> 
+            <link>sop://broker.sopcast.com:3912/149255</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_comedy_ro.png</thumbnail> 
+	    </item>
+		
+		
+	    <item>
+	        <title>Paramount</title> 
+            <link>sop://broker.sopcast.com:3912/253033</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_hu.png</thumbnail> 
+	    </item>
+		
+		<item>
+	        <title>Pro Cinema</title> 
+            <link>sop://broker.sopcast.com:3912/148249</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_cinema.png</thumbnail> 
+	    </item>
+		
+		<item>
+	        <title>Tv1000</title> 
+            <link>sop://broker.sopcast.com:3912/256337</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_balkan.png</thumbnail> 
+	    </item>
+		
+		<item>
+	        <title>Comedy extra </title> 
+            <link>sop://broker.sopcast.com:3912/253470</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/comedy_central_us_hd.png</thumbnail>  
+	    </item>
+	    
+
+	    
+	    <item>
+	        <title>Cinema Hits HD</title>
+	        <link>rtmp://s99.webport.tv/live playpath=z050211.stream  pageUrl=http://www.tvsector.com live=1  swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
+	        <thumbnail>http://s7.postimage.org/r3jtgv25n/Sky_Cinema_Hits.png</thumbnail>
+	    </item>
+	    
+            
+		
+		<item>
+	        <title>Bollywood Tv</title>
+	        <link>sop://broker.sopcast.com:3912/148884</link>
+	        <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bollywood_tv_ro.png</thumbnail>
+	    </item>
+	   
+	
+	 </items>    
+    
+     </channel>
+    
+    
+    
+    
+     <channel>
+        
+        <name>Entertainment</name>
+        <thumbnail>http://s18.postimage.org/4p0av1149/entertainment.png</thumbnail>
+	
+	<items>
+
+	     <item>
+	        <title>Antena 1</title> 
+            <link>sop://broker.sopcast.com:3912/149257</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/antena1_ro.png</thumbnail> 
+	    </item>
+  
+	    <item>
+	        <title>Kanal D</title> 
+            <link>sop://broker.sopcast.com:3912/149258</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kanal_d_ro.png</thumbnail> 
+	    </item>
+
+           
+
+	    <item>
+	        <title>Protv</title> 
+            <link>sop://broker.sopcast.com:3912/149252</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_tv.png</thumbnail> 
+	    </item>
+	    
+	     <item>
+	        <title>Prima Tv</title> 
+            <link>sop://broker.sopcast.com:3912/148086</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/prima_tv.png</thumbnail>
+	    </item>
+	    
+	    <item>
+		    <title>Tvr 1</title> 
+            <link>sop://broker.sopcast.com:3912/148085</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvr_moldova.png</thumbnail> 
+	    </item>
+	    
+	    <item>
+            <title>Tvr HD</title> 
+            <link>sop://broker.sopcast.com:3912/253827</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvr_hd.png</thumbnail> 
+        </item>
+
+        <item>
+            <title>Antena Stars</title> 
+            <link>sop://broker.sopcast.com:3912/148255</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/antena_stars_ro.png</thumbnail> 
+        </item>
+            
+        <item>
+            <title>Euforia</title> 
+            <link>sop://broker.sopcast.com:3912/253473</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/euforia_lifestyle_tv.png</thumbnail> 
+        </item>
+            
+        <item>
+            <title>Casa mia </title> 
+            <link>rtmp://adv-video.distinct.ro:443/live_playlist/_definst_/casamia</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal_antigua.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>Paprika</title> 
+            <link>sop://broker.sopcast.com:3912/148881</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/paka_paka.png</thumbnail> 
+        </item>
+               
+    </channel>
+    
+    <channel>
+        
+        <name>Documentaries</name>
+        <thumbnail>http://s7.postimage.org/64pcnkh3f/docs.png</thumbnail>
+        <items>
+
+         <item>
+	        <title>Discovery Channel</title> 
+            <link>sop://broker.sopcast.com:3912/256241</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_global_us.png</thumbnail> 
+	    </item>
+
+	    <item>
+		    <title>Discovery Id</title> 
+            <link>sop://broker.sopcast.com:3912/256244</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_xtra_east_europe_hd.png</thumbnail> 
+	    </item>
+
+        <item>
+	        <title>Discovery Science</title> 
+            <link>sop://broker.sopcast.com:3912/256243</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_science_global.png</thumbnail> 
+	    </item>
+
+        <item>
+	        <title>Discovery World</title> 
+            <link>sop://broker.sopcast.com:3912/256242</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_world_us.png</thumbnail> 
+	    </item>
+
+	    <item>
+	        <title>History Channel</title> 
+            <link>sop://broker.sopcast.com:3912/253032</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/history_europe.png</thumbnail> 
+	    </item>
+
+        <item>
+            <title>Nat Geo Wild</title> 
+            <link>sop://broker.sopcast.com:3912/253037</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png</thumbnail> 
+        </item>
+        
+        <item>
+	        <title>National Geographic</title> 
+            <link>sop://broker.sopcast.com:3912/148248</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png</thumbnail> 
+	    </item>
+           
+        <item>
+	        <title>Viasat Explorer</title> 
+            <link>sop://broker.sopcast.com:3912/149269</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/v_ca_hd.png</thumbnail> 
+	    </item>
+	    
+	    <item>
+	        <title>Viasat History</title> 
+            <link>sop://broker.sopcast.com:3912/149268</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/v_channel_ng.png</thumbnail> 
+	    </item>
+	    
+        <item>
+            <title>Viasat Nature</title> 
+            <link>sop://broker.sopcast.com:3912/149267</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/v_channel_uk.png</thumbnail> 
+        </item>
+            
+            
+  </channel>
+    
+  <channel>
+        
+        <name>News</name>
+        <thumbnail>http://s13.postimage.org/nolk6incn/news.png</thumbnail>
+        <items>
+        
+         <item>
+	        <title>Antena3</title> 
+            <link>sop://broker.sopcast.com:3912/148084</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/antena3_ro.png</thumbnail> 
+	    </item>
+	    
+	    <item>
+            <title>Realitatea Tv</title> 
+            <link>sop://broker.sopcast.com:3912/253036</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/realitatea_tv.png</thumbnail> 
+        </item>
+
+        <item>
+            <title>ROMANIA Tv</title> 
+            <link>sop://broker.sopcast.com:3912/148258</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/romania_tv_ro.png</thumbnail> 
+        </item>
+        
+        <item>
+            <title>Digi 24</title> 
+            <link>http://82.76.249.77:80/digi24edge/digi24hdmqhls/index.m3u8</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_premium.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>B1</title> 
+            <link>sop://broker.sopcast.com:3912/148087</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/b1_tv.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>National Tv</title> 
+            <link>sop://broker.sopcast.com:3912/253030</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/ntv_ro.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>Sky Tg24</title> 
+            <link>rtmp://cp49989.live.edgefcs.net:1935/live playpath=streamRM1@2564 pageUrl=http://video.sky.it/news/diretta swfUrl=http://videoplatform.sky.it/player/videoplayer_live.swf live=1</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_tg24.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>CIELLO</title> 
+            <link>http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cielo.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>RAI NEWS 24 </title> 
+            <link>http://rm-edge-8.cdn2.streamago.tv/streamagoedge/1917/810/playlist.m3u8</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rai_news_24.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>Digi24 Timisoara</title> 
+            <link>http://82.76.249.77:80/digi24edge/digi24timislivehls/index.m3u8</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_24_ro.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>Digi24 Oradea</title> 
+            <link>http://82.76.249.77:80/digi24edge/digi24oradealivehls/index.m3u8</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_24_ro.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>Digi24 Iasi</title> 
+            <link>http://82.76.249.77:80/digi24edge/digi24iasilivehls/index.m3u8</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_24_ro.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>Digi24 Constanta</title> 
+            <link>http://82.76.249.77:80/digi24edge/digi24constantalivehls/index.m3u8</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_24_ro.png</thumbnail> 
+        </item>
+		
+		<item>
+		    <title>Digi24 Craiova</title> 
+            <link>http://82.76.249.77:80/digi24edge/digi24craiovalive/index.m3u8</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_24_ro.png</thumbnail> 
+        </item>
+
+		
+		
+ </channel>
+ 
+ 
+ <channel>
+        
+        <name>Sport</name>
+        <thumbnail>http://s13.postimage.org/vrjqhu7xz/sport.png</thumbnail>
+        <items>
+        
+        <item>
+	        <title>Dolce sport 1</title> 
+            <link>sop://broker.sopcast.com:3912/257109</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dolce_sport_ro.png</thumbnail> 
+	    </item>
+	
+	    <item>
+	        <title>Digi sport1</title> 
+            <link>sop://broker.sopcast.com:3912/149384</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_sport1_ro.png</thumbnail>  
+	    </item>
+
+	     <item>
+	        <title>Dolce sport 2</title> 
+            <link>sop://broker.sopcast.com:3912/256180</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dolce_sport_ro.png</thumbnail> 
+	    </item>
+  
+	    <item>
+	        <title>Digi sport 3</title> 
+            <link>sop://broker.sopcast.com:3912/256179</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dolce_sport_ro.png</thumbnail> 
+	    </item>
+
+           
+
+	    <item>
+	        <title>LOOK TV</title> 
+            <link>sop://broker.sopcast.com:3912/148262</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/look_tv_ro.png</thumbnail> 
+	    </item>
+		
+		<item>
+	        <title>SPORT.RO</title> 
+            <link>sop://broker.sopcast.com:3912/148984</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_ro.png</thumbnail> 
+	    </item>
+	    
+	    <item>
+	        <title>CANAL+1</title> 
+            <link>sop://broker.sopcast.com:3912/258921</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canalplus_es_liga.png</thumbnail> 
+	    </item>
+	    
+	    <item>
+		    <title>CANAL+2</title> 
+            <link>sop://broker.sopcast.com:3912/258922</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canalplus_es_liga.png</thumbnail> 
+	    </item>
+	    
+	    <item>
+            <title>CANAL+3</title> 
+            <link>sop://broker.sopcast.com:3912/258923</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canalplus_es_liga.png</thumbnail> 
+        </item>
+
+        <item>
+            <title>VIASAT MOTOR</title> 
+            <link>acestream://b70983ba89591f00e2602a35e957a2d856a6d58c</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_motor.png</thumbnail> 
+        </item>
+            
+        <item>
+            <title>MOTORS</title> 
+            <link>acestream://84c27a15472ee950e0567667dfd270cc81b01498</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail> 
+        </item>
+            
+        <item>
+            <title>Sky F1</title> 
+            <link>acestream://02c14347959f78d8bf18f898c56f429ab5a44c7b</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_sport_f1_hd.png</thumbnail> 
+        </item>
+            
+        <item>
+            <title>Sky SPORT1</title> 
+            <link>acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_sport1.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>Sky SPORT2</title> 
+            <link>acestream://e9969669eeed0adb1c68072e977283222ac9572e</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_sport2_hd.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>Sky SPORT4</title> 
+            <link>acestream://5d255851c2ac4f2722cd6b988ff9f1b585baf1fe</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_sport_plus.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>Sky SPORT5</title> 
+            <link>acestream://37558d4ae8149aebd7e87a406fece41626e35c31</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_kr_hd.png</thumbnail>  
+        </item>
+		
+		<item>
+            <title>ZDF</title> 
+            <link>acestream://1aa29c79b36c276239d3d70779bbacade464a1cf</link> 
+			<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_de.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>NBA TV</title> 
+            <link>acestream://3462fdb26e872914ecc30572f3d06d391dbb16a9</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nba_tv_ca.png</thumbnail>  
+        </item>
+		
+		<item>
+            <title>BT SPORT</title> 
+            <link>acestream://19ac8f262e29e04dfcf4ae88695e4f0a78bd7e64</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_uk.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>SportTime TV1</title> 
+            <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>SportTime TV 2</title> 
+           <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv2_pt.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>SportTime TV 3</title> 
+            <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv3_pt.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>SportTime TV 4</title> 
+            <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv4_pt.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>SportTime TV 5</title> 
+            <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_vision_do.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>SportTime TV 6</title> 
+            <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport1_lt.png</thumbnail> 
+        </item>
+		
+		<item>
+           <title>SportTime TV 7</title> 
+           <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200</link> 
+           <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport1_lt.png</thumbnail>  
+        </item>
+		
+		<item>
+            <title>AutoSport TV</title> 
+            <link>mms://100automoto.tv/100livesport</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/auto_motor_sport_channel.png</thumbnail> 
+        </item>
+		
+		<item>
+            <title>SportTime TV 5</title> 
+            <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_vision_do.png</thumbnail> 
+        </item>        
+          
+	    
+ </channel>
+ 
+ <channel>
+        
+        <name>Kids</name>
+        <thumbnail>http://s17.postimage.org/k3g1cfn4v/kids.png</thumbnail>
+        <items>
+        
+         <item>
+	        <title>Cartoon Network</title> 
+            <link>sop://broker.sopcast.com:3912/148254</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png</thumbnail> 
+	    </item>
+		
+		<item>
+	        <title>Boomerang</title> 
+            <link>sop://broker.sopcast.com:3912/148264</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bn_televizija_zemaljski.png</thumbnail> 
+	    </item>
+		
+		<item>
+	        <title>Disney Channel</title> 
+            <link>sop://broker.sopcast.com:3912/253031</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png</thumbnail> 
+	    </item>
+		
+		<item>
+	        <title>Disney Junior</title> 
+            <link>sop://broker.sopcast.com:3912/256239</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png</thumbnail> 
+	    </item>
+		
+		<item>
+	        <title>Megamax</title> 
+            <link>sop://broker.sopcast.com:3912/256328</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mdi_tv_ro.png</thumbnail> 
+	    </item>
+		
+		<item>
+	        <title>Minimax</title> 
+            <link>sop://broker.sopcast.com:3912/148263</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/minimax_ro.png</thumbnail> 
+	    </item>
+		
+		<item>
+	        <title>Nick Jr</title> 
+            <link>sop://broker.sopcast.com:3912/149266</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.png</thumbnail> 
+	    </item>
+		
+		<item>
+	        <title>Nickelodeon</title> 
+            <link>sop://broker.sopcast.com:3912/253472</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png</thumbnail> 
+	    </item>
+		
+	    
+ </channel>
+ 
+  <channel>
+        
+        <name>Music</name>
+        <thumbnail>http://s16.postimage.org/xbxsoce6t/Music.png</thumbnail>
+	
+	<items>
+
+	    
+           
+	    <item>
+	        <title>Radio 105 TV</title>
+	        <link>rtmp://fms.105.net:1935/live/105Test1 swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf?xmlPath=/com/universalmind/tv/105/videoXML.xml&advXML=/com/universalmind/adsWizzConfig/5.xml live=1</link>
+	        <thumbnail>http://www.crozcast.com/images/logos/908de.jpg</thumbnail>
+	    </item>
+		
+		<item>
+            <title>UTv</title> 
+            <link>http://82.76.249.77/utvedge/utvlive/index.m3u8</link> 
+            <thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/u_tv.png</thumbnail> 
+        </item>
+		
+		<item>
+           <title>Kiss Tv</title> 
+           <link>sop://broker.sopcast.com:3912/148883</link> 
+           <thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/ktk_kz.png</thumbnail> 
+		</item>
+		
+		<item>
+           <title>Zu Tv</title> 
+           <link>sop://broker.sopcast.com:3912/148252</link> 
+           <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zu_tv_ro.png</thumbnail> 
+        </item>
+		
+		<item>
+           <title>Taraf</title> 
+           <link>sop://broker.sopcast.com:3912/148250</link> 
+           <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/taraf_tv.png</thumbnail> 
+        </item>
+	    
+	    
+	  	
+	</items>    
+    
+    </channel>
+	    
+	    
+
+</channels>
